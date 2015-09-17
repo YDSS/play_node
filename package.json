@@ -1,0 +1,27 @@
+{
+  "name": "node-demo",
+  "version": "1.0.0",
+  "description": "study and play some node modules which I find anywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:YDSS/play_node.git"
+  },
+  "keywords": [
+    "play",
+    "node",
+    "module"
+  ],
+  "author": "y.dsheng10@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YDSS/play_node/issues"
+  },
+  "homepage": "https://github.com/YDSS/play_node",
+  "devDependencies": {
+    "require-dir": "^0.3.0"
+  }
+}
